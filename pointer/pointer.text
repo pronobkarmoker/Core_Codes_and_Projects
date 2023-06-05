@@ -1,0 +1,5 @@
+variables that store address of another variables
+
+int a;
+int *p;
+a= 5;
